@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8456205c-e4c0-4e87-b48a-53c2eedd8b4d" name="Default Changelist" comment="" />
+    <list default="true" id="8456205c-e4c0-4e87-b48a-53c2eedd8b4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,8 +155,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="y" value="132" />
+    <option name="x" value="275" />
+    <option name="y" value="53" />
     <option name="width" value="1378" />
     <option name="height" value="977" />
   </component>
@@ -214,6 +216,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/AndroidSdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -313,15 +316,16 @@
       <option name="presentableId" value="Default" />
       <updated>1583937886215</updated>
       <workItem from="1583937887852" duration="879000" />
-      <workItem from="1583939836289" duration="4859000" />
+      <workItem from="1583939836289" duration="5355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5738000" />
+    <option name="totallyTimeSpent" value="6234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="106" width="1102" height="781" extended-state="0" />
+    <frame x="220" y="43" width="1102" height="781" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24616858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -340,7 +344,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
